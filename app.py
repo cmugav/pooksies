@@ -172,7 +172,7 @@ def love_story():
         <h2>How we fell in love</h2>
 
         <p>
-          A month went by and I started noticing that you were... starting to have feelings for me? We met in San Pedro de Atacama and I realized that you were acting a tad different. It was almost noticeable, but I did notice. After, Christi invited us to her birthday party. That night, on our way back to your house, you hugged me in the car. You hugged me so, so tightly that I almost cried. I didn't know what to do. I was driving, I couldn't hug you with both of my arms, because we would crash. So I rested my head on your shoulder (we also could've crashed, but thankfully, we didn't).
+          A month went by and I started noticing that you were... starting to have feelings for me? We met in San Pedro de Atacama and I realized that you were acting a tad different. It was almost unoticeable, but I did notice. After, Christi invited us to her birthday party. That night, on our way back to your house, you hugged me in the car. You hugged me so, so tightly that I almost cried. I didn't know what to do. I was driving, I couldn't hug you with both of my arms, because we would crash. So I rested my head on your shoulder (we also could've crashed, but thankfully, we didn't).
         </p>
 
         <img src="/static/christi.jpg" alt="Christi's birthday">
@@ -259,7 +259,7 @@ def love_story():
       <img src="/static/fujifilm.jpg" alt="Pretty girl">
 
       <p>
-        I was so happy to see you. I was with my <em>*clears throat*</em> GIRLFRIEND after 6 years of being apart. I would've never thought we would've stayed together more than 2 months (wupsies), but we did, and I couldn't be happier. I got to travel to Barcelona, I got to meet your friends and I felt so accepted by them and I loved that. I felt at home.
+        I was so happy to see you. I was with my <em>*clears throat*</em> GIRLFRIEND after 6 months of being apart. I would've never thought we would've stayed together more than 2 months (wupsies), but we did, and I couldn't be happier. I got to travel to Barcelona, I got to meet your friends and I felt so accepted by them and I loved that. I felt at home.
       </p>
 
       <p>
@@ -296,7 +296,7 @@ def love_story():
       </p>
 
       <p>
-        You're struggling so much more than we thought, and I can't begin to imagine how horrendous that must be. I just want you to know that I notice you. I see you and I can see your pain. I see that you're struggling. You are noticed, at least by me.
+        You're struggling so much more than me thought, and I can't begin to imagine how horrendous that must be. I just want you to know that I notice you. I see you and I can see your pain. I see that you're struggling. You are noticed, at least by me.
       </p>
 
       <p>
