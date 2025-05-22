@@ -55,7 +55,7 @@ def love_story():
         }
 
         nav a:hover {
-          background-color: cream;
+          background-color: rosybrown;
           color: black;
         }
 
@@ -132,24 +132,24 @@ def love_story():
       <div id="start" class="page active">
         <h2>Where it started</h2>
         <p>
-          We met under the most unexpected circumstances... and yet it felt like the universe conspired for us to find each other.<br><br>
+          We met under the most unexpected circumstances, and yet it felt like the universe conspired for us to find each other.<br><br>
 
           We met an August morning. August 7th of 2023 morning to be exact. As you know, I didn't have a big first impression of you, but I had a big second impression of you. When I saw you going through my front door that August 13th night I was amazed by your height and by your beauty. I started liking you that night. It was an immediate feeling, an immediate attraction.<br><br>
 
-          When you told me to accompany you and Lia to the sociales party I was over the Moon. Fuck, I was going to a party with you. I was hoping something would happen, but it didn't and I'm so happy it turned out to be that way because our relationship wouldn't be what it is today if that had happened. Still, I had a great night and my feelings and attraction for you only grew stronger. Seeing you dance, seeing you owning that dance floor was a magical feeling I had never ever experienced before with someone I liked.
+          When you told me to go with you and Lia to the sociales party I was over the Moon. I was going to a party with you! I was hoping something would happen, but it didn't, and I'm so happy it turned out to be that way because our relationship wouldn't be what it is today if that had happened. Still, I had a great night and my feelings and attraction for you only grew stronger. Seeing you dance, seeing you owning that dance floor was a magical feeling I had never ever experienced before with someone I liked.
         </p>
 
         <img src="/static/img_0473.jpeg" alt="You and Lia at the Sociales Party">
 
         <p>
-          Two days after, we went to the viewpoint together and that same night we went to a rave, my first rave ever! At the viewpoint, I realized how nice you were. Until that point, my impression of you was that you were a player and that you didn't have a lot of feelings. That day I noticed that you had a lot of feelings. You felt love, pain, sadness, happiness and many other things. I believe it was a bonding moment for us and I really enjoyed that time with you. After, we went to the rave. I fucking hated it, but I was happy to be there, because you were there.
+          Two days after, we went to the viewpoint together and that same night we went to a rave, my first rave ever! At the viewpoint, I realized how nice and genuine you were. Until that point, my impression of you was that you were a player and that you didn't have a lot of feelings. There, I noticed that you had a lot of feelings. You felt love, pain, sadness, happiness and many other things. I believe it was a bonding moment for us and I really enjoyed that moment. After, we went to the rave. I fucking hated it, but I was happy to be there, because you were there.
         </p>
 
         <img src="/static/img_0539.jpeg" alt="Candid of you at the viewpoint">
         <img src="/static/img_0551.jpeg" alt="Lia handling that shot like a champ and well... you looking scared">
 
         <p>
-          A few weeks later, we went through a little car crash together (I'm sorry!) and afterwards, we went to drink to the park. It was a magical night for me. We were just talking about everything and nothing at the same time. We were so high and laughing so much and I think it's one of the best memories I have with you here in Santiago.
+          A few weeks later, we went through a little car crash together (I'm sorry!) and afterwards, we went to drink to the park. That night changed a lot of things for me. We were just talking about everything and nothing at the same time. We were so high and laughing so much and I think it's one of the best memories I have with you here in Santiago. There, while drinking and smoking, I realized how much I liked you. I was hoping you felt the same way, but deep inside I knew you didn't. Still, I liked you. A lot.
         </p>
 
         <img src="/static/img_0848.jpeg" alt="You smoking your joint with a silly beach towel on your shoulders because we were SO cold">
