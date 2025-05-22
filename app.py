@@ -8,7 +8,20 @@ def love_story():
     <!DOCTYPE html>
     <html>
     <head>
-      <title>Our Love Story</title>
+      <script>
+        const correctPassword = "Pooks";
+        const entered = sessionStorage.getItem("entered");
+    
+        if (!entered) {
+          const attempt = prompt("Enter the password to view the page:");
+          if (attempt !== correctPassword) {
+            document.body.innerHTML = "<h2 style='text-align:center; padding:40px; color:white;'>Wrong password</h2>";
+          } else {
+            sessionStorage.setItem("entered", "true");
+          }
+        }
+      </script>
+      <title>Us</title>
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <style>
         body {
