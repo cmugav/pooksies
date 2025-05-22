@@ -163,8 +163,8 @@ def love_story():
 
         <div style="margin-top: 20px; margin-bottom: 20px;">
           <iframe style="border-radius:12px"
-            src="https://open.spotify.com/intl-es/track/6KJqZcs9XDgVck7Lg9QOTC?si=4eff83e0fd5f4d88"
-            width="100%" height="152" frameborder="0" allowfullscreen=""
+            src="https://open.spotify.com/embed/track/6KJqZcs9XDgVck7Lg9QOTC"
+            width="100%" height="152" frameborder="0" allowtransparency="true"
             allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"
             loading="lazy">
           </iframe>
@@ -193,12 +193,7 @@ def love_story():
         <img src="/static/img_2652.jpeg" alt="I asked the traffic lights if it'll be all right they said I don't know">
 
         <div style="margin-top: 20px; margin-bottom: 20px;">
-          <iframe style="border-radius:12px"
-            src="https://open.spotify.com/intl-es/track/2dgFqt3w9xIQRjhPtwNk3D?si=996ffb918b83435f"
-            width="100%" height="152" frameborder="0" allowfullscreen=""
-            allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-            loading="lazy">
-          </iframe>
+          <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2dgFqt3w9xIQRjhPtwNk3D" width="100%" height="152" frameborder="0" allowtransparency="true" allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
         </div>
 
         <p>
@@ -259,12 +254,7 @@ def love_story():
       </p>
 
       <div style="margin-top: 20px; margin-bottom: 20px;">
-        <iframe style="border-radius:12px"
-          src="https://open.spotify.com/intl-es/track/5IMtdHjJ1OtkxbGe4zfUxQ?si=342cdc1e7b544004"
-          width="100%" height="152" frameborder="0" allowfullscreen=""
-          allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-          loading="lazy">
-        </iframe>
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5IMtdHjJ1OtkxbGe4zfUxQ" width="100%" height="152" frameborder="0" allowtransparency="true" allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
       </div>
 
       <img src="/static/img_5022.jpeg" alt="Costa Rica 1">
@@ -294,12 +284,7 @@ def love_story():
       </p>
 
       <div style="margin-top: 20px; margin-bottom: 20px;">
-        <iframe style="border-radius:12px"
-          src="https://open.spotify.com/intl-es/track/3VPeA7IW68QRNTfgzb6biZ?si=9d56d9e90faf48ca"
-          width="100%" height="152" frameborder="0" allowfullscreen=""
-          allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-          loading="lazy">
-        </iframe>
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3VPeA7IW68QRNTfgzb6biZ" width="100%" height="152" frameborder="0" allowtransparency="true" allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
       </div>
 
       <img src="/static/img_5179.jpeg" alt="YOU WITH A HEART BALLON!">
@@ -312,12 +297,7 @@ def love_story():
       <img src="/static/img_5348.jpg" alt="We look so happy">
 
       <div style="margin-top: 20px; margin-bottom: 20px;">
-        <iframe style="border-radius:12px"
-          src="https://open.spotify.com/intl-es/track/5KtvumPgVZmt8wg9xONE0T?si=75766bbcadbf476d"
-          width="100%" height="152" frameborder="0" allowfullscreen=""
-          allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-          loading="lazy">
-        </iframe>
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5KtvumPgVZmt8wg9xONE0T" width="100%" height="152" frameborder="0" allowtransparency="true" allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
       </div>
 
       <img src="/static/img_2227.jpeg" alt="Mistery baggy">
@@ -359,12 +339,7 @@ def love_story():
     </div>
 
     <div style="margin-top: 20px; margin-bottom: 20px;">
-      <iframe style="border-radius:12px"
-        src="https://open.spotify.com/intl-es/track/5jAIouBES8LWMiriuNq170?si=0eebcc46b75d4caa"
-        width="100%" height="152" frameborder="0" allowfullscreen=""
-        allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-        loading="lazy">
-      </iframe>
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5jAIouBES8LWMiriuNq170" width="100%" height="152" frameborder="0" allowtransparency="true" allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     </div>
      
     <div id="future" class="page">
@@ -394,21 +369,11 @@ def love_story():
       </p>
 
       <div style="margin-top: 20px; margin-bottom: 20px;">
-        <iframe style="border-radius:12px"
-          src="https://open.spotify.com/intl-es/track/2kjMpCZBF8fArH7B4yku9T?si=fc53e0060f8542cf"
-          width="100%" height="152" frameborder="0" allowfullscreen=""
-          allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-          loading="lazy">
-        </iframe>
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2kjMpCZBF8fArH7B4yku9T" width="100%" height="152" frameborder="0" allowtransparency="true" allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
       </div>
 
       <div style="margin-top: 20px; margin-bottom: 20px;">
-        <iframe style="border-radius:12px"
-          src="https://open.spotify.com/intl-es/track/4UwqOWDpdeIDVQDuKT6iza?si=5ef4f00990364294"
-          width="100%" height="152" frameborder="0" allowfullscreen=""
-          allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"
-          loading="lazy">
-        </iframe>
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4UwqOWDpdeIDVQDuKT6iza" width="100%" height="152" frameborder="0" allowtransparency="true" allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
       </div>
 
     </div>
