@@ -283,12 +283,12 @@ def love_story():
         But it was time to say goodbye, again... lots of crying at the airport, lots of crying on the plane. I didn't know if I was going to see you again. Was our relationship going to survive? But it did survive and after 5 months, we saw each other again. You picked me up at the airport with a heart balloon.
       </p>
 
+      <img src="/static/img_5179.jpeg" alt="YOU WITH A HEART BALLON!">
+      
       <div style="margin-top: 20px; margin-bottom: 20px;">
         <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3VPeA7IW68QRNTfgzb6biZ" width="100%" height="152" frameborder="0" allowtransparency="true" allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
       </div>
-
-      <img src="/static/img_5179.jpeg" alt="YOU WITH A HEART BALLON!">
-
+      
       <p>
         And I'd never felt more in love in my whole life. I love you Izzy, so much. My heart feels like it's about to explode every single time I'm near you or even talking to you over the phone.
       </p>
@@ -336,10 +336,10 @@ def love_story():
       <p>
         Just know that I've never loved anyone the way that I love you. You're the one I love and the one I want to love for the rest of my life. I don't want to hate you and that's why, if loving you for the rest of my life means that I have to lose you, I'm willing to accept that.
       </p>
-    </div>
 
-    <div style="margin-top: 20px; margin-bottom: 20px;">
-      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5jAIouBES8LWMiriuNq170" width="100%" height="152" frameborder="0" allowtransparency="true" allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+      <div style="margin-top: 20px; margin-bottom: 20px;">
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5jAIouBES8LWMiriuNq170" width="100%" height="152" frameborder="0" allowtransparency="true" allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+      </div>
     </div>
      
     <div id="future" class="page">
