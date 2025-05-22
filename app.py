@@ -105,7 +105,29 @@ def love_story():
           }
         }
       </style>
-      
+      <script>
+        document.addEventListener("DOMContentLoaded", function () {
+          const entered = sessionStorage.getItem("entered");
+          const correctPassword = "pooks";
+
+          if (!entered) {
+            const attempt = prompt("Enter the password to view the page:");
+            if (attempt !== correctPassword) {
+              document.body.innerHTML = "<h2 style='text-align:center; padding:40px; color:white;'>Wrong password</h2>";
+            } else {
+              sessionStorage.setItem("entered", "true");
+            }
+          }
+        });
+
+        function showPage(pageId) {
+          var pages = document.getElementsByClassName('page');
+          for (var i = 0; i < pages.length; i++) {
+            pages[i].classList.remove('active');
+          }
+          document.getElementById(pageId).classList.add('active');
+        }
+      </script>
     </head>
     <body>
       <nav>
