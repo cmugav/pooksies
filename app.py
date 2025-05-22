@@ -55,7 +55,7 @@ def love_story():
         }
 
         nav a:hover {
-          background-color: paleturquoise;
+          background-color: cream;
           color: black;
         }
 
