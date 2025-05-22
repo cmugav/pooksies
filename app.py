@@ -1,4 +1,4 @@
-from flask import Flask, render_template_string
+from flask import Flask, render_template
 
 app = Flask(__name__)
 
@@ -371,7 +371,7 @@ def love_story():
     </body>
     </html>
     """
-    return render_template_string("html")
+    return render_template("index.html")
 
 if __name__ == "__main__":
     app.run(debug=True)
