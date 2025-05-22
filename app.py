@@ -366,7 +366,7 @@ def love_story():
       </p>
 
       <p>
-        That's what I hope the future will bring you. <em>That you know that I'll always love you.</em>
+        <em>Just know that I'll always love you.</em>
       </p>
 
       <img src="/static/img_6479.jpeg" alt="What I hope for us">
