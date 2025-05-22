@@ -330,11 +330,19 @@ def love_story():
       </p>
 
       <p>
-        We've grown through so much together. We're stronger, wiser, and still connected in the most beautiful ways possible. And I'll always be deeply grateful for that with you.
+        When we were thinking about breaking up, my main concern was you. Breaking up with you scares me. Not because of me, but because of you. If we break up, I know that I won't be able to stay friends with you, but I also know that I can't leave you in this moment of your life. I would never forgive myself. You're in such a vulnerable situation right now, and I can't leave you. I just can't.
       </p>
 
       <p>
-        Just know that I've never loved anyone the way that I love you. You're the one I love and the one I want to love for the rest of my life. I don't want to hate you and that's why, if loving you for the rest of my life means that I have to lose you, I'm willing to accept that.
+        I want to be your rock. I want to be the person you rely on. That's why I'll do whatever it takes for this relationship to work out and, if it doesn't, I'll do my best to stay in your life. I'll do my best effor to stay just friends with you, because I prefer that over loosing you and not knowing how you are or what you're up to.
+      </p>
+
+      <p>
+        We've gone through so much together. We're stronger, wiser, and connected in the most beautiful ways possible, and we'll always be. I'll always be deeply grateful for that with you.
+      </p>
+
+      <p>
+        Just know that I've never loved anyone the way that I love you. You're the one I love and the one I want to love for the rest of my life. I don't want to hate you and that's why, if loving you for the rest of my life means that I have to lose you as a partner, I'm willing to accept that.
       </p>
 
       <div style="margin-top: 20px; margin-bottom: 20px;">
