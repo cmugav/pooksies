@@ -161,6 +161,15 @@ def love_story():
 
         <img src="/static/burgir.png" alt="You eating a McFlurry at McDonalds after Sala Gente">
 
+        <div style="margin-top: 20px; margin-bottom: 20px;">
+          <iframe style="border-radius:12px"
+            src="https://open.spotify.com/intl-es/track/6KJqZcs9XDgVck7Lg9QOTC?si=4eff83e0fd5f4d88"
+            width="100%" height="152" frameborder="0" allowfullscreen=""
+            allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+            loading="lazy">
+          </iframe>
+        </div>
+
         <p>
           Maitencillo... What a beautiful day. I remember I asked you a lot of questions. I wanted to know everything about you. Still, we didn't speak that much, but it was nice. Beautiful day, beautiful view and beautiful company.
         </p>
@@ -182,6 +191,15 @@ def love_story():
         </p>
 
         <img src="/static/img_2652.jpeg" alt="I asked the traffic lights if it'll be all right they said I don't know">
+
+        <div style="margin-top: 20px; margin-bottom: 20px;">
+          <iframe style="border-radius:12px"
+            src="https://open.spotify.com/intl-es/track/2dgFqt3w9xIQRjhPtwNk3D?si=996ffb918b83435f"
+            width="100%" height="152" frameborder="0" allowfullscreen=""
+            allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+            loading="lazy">
+          </iframe>
+        </div>
 
         <p>
           This is crazy, because Scott Street just came on while I was writing this... Anyway don't be a stranger.
@@ -240,6 +258,15 @@ def love_story():
         First of all, we went to Costa Rica together. I always wonder what people thought about us. If you think about it, it was actually CRAZY. We hadn't been together for more than 3 months and we were traveling to Central America together. CRAZY.
       </p>
 
+      <div style="margin-top: 20px; margin-bottom: 20px;">
+        <iframe style="border-radius:12px"
+          src="https://open.spotify.com/intl-es/track/5IMtdHjJ1OtkxbGe4zfUxQ?si=342cdc1e7b544004"
+          width="100%" height="152" frameborder="0" allowfullscreen=""
+          allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+          loading="lazy">
+        </iframe>
+      </div>
+
       <img src="/static/img_5022.jpeg" alt="Costa Rica 1">
       <img src="/static/img_4993.jpeg" alt="Costa Rica 2">
       <img src="/static/img_4953.jpeg" alt="Costa Rica 3">
@@ -266,14 +293,33 @@ def love_story():
         But it was time to say goodbye, again... lots of crying at the airport, lots of crying on the plane. I didn't know if I was going to see you again. Was our relationship going to survive? But it did survive and after 5 months, we saw each other again. You picked me up at the airport with a heart balloon.
       </p>
 
+      <div style="margin-top: 20px; margin-bottom: 20px;">
+        <iframe style="border-radius:12px"
+          src="https://open.spotify.com/intl-es/track/3VPeA7IW68QRNTfgzb6biZ?si=9d56d9e90faf48ca"
+          width="100%" height="152" frameborder="0" allowfullscreen=""
+          allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+          loading="lazy">
+        </iframe>
+      </div>
+
       <img src="/static/img_5179.jpeg" alt="YOU WITH A HEART BALLON!">
 
       <p>
-        And I'd never felt more in love in my whole life. I fucking love you Izzy, so much. My heart feels like it's about to explode every single time I'm near you or even talking to you over the phone.
+        And I'd never felt more in love in my whole life. I love you Izzy, so much. My heart feels like it's about to explode every single time I'm near you or even talking to you over the phone.
       </p>
 
       <img src="/static/img_5224.jpeg" alt="Lesbians...">
       <img src="/static/img_5348.jpg" alt="We look so happy">
+
+      <div style="margin-top: 20px; margin-bottom: 20px;">
+        <iframe style="border-radius:12px"
+          src="https://open.spotify.com/intl-es/track/5KtvumPgVZmt8wg9xONE0T?si=75766bbcadbf476d"
+          width="100%" height="152" frameborder="0" allowfullscreen=""
+          allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+          loading="lazy">
+        </iframe>
+      </div>
+
       <img src="/static/img_2227.jpeg" alt="Mistery baggy">
 
       <p>
@@ -311,6 +357,15 @@ def love_story():
         Just know that I've never loved anyone the way that I love you. You're the one I love and the one I want to love for the rest of my life. I don't want to hate you and that's why, if loving you for the rest of my life means that I have to lose you, I'm willing to accept that.
       </p>
     </div>
+
+    <div style="margin-top: 20px; margin-bottom: 20px;">
+      <iframe style="border-radius:12px"
+        src="https://open.spotify.com/intl-es/track/5jAIouBES8LWMiriuNq170?si=0eebcc46b75d4caa"
+        width="100%" height="152" frameborder="0" allowfullscreen=""
+        allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+        loading="lazy">
+      </iframe>
+    </div>
      
     <div id="future" class="page">
       <h2>What I hope the future brings us</h2>
@@ -320,7 +375,7 @@ def love_story():
       </p>
 
       <p>
-        Learn to forgive, to forget. To live, even if it's fucking hard sometimes.
+        Learn to forgive, to forget. To live, even if it's hard sometimes.
       </p>
 
       <p>
@@ -328,7 +383,7 @@ def love_story():
       </p>
 
       <p>
-        <em>That's what I hope the future will bring you. That you know that I'll always love you.</em>
+        That's what I hope the future will bring you. <em>That you know that I'll always love you.</em>
       </p>
 
       <img src="/static/img_6479.jpeg" alt="What I hope for us">
@@ -337,6 +392,25 @@ def love_story():
         With love,<br>
         <strong>Catalina Paz Muga Vaccarella</strong>
       </p>
+
+      <div style="margin-top: 20px; margin-bottom: 20px;">
+        <iframe style="border-radius:12px"
+          src="https://open.spotify.com/intl-es/track/2kjMpCZBF8fArH7B4yku9T?si=fc53e0060f8542cf"
+          width="100%" height="152" frameborder="0" allowfullscreen=""
+          allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+          loading="lazy">
+        </iframe>
+      </div>
+
+      <div style="margin-top: 20px; margin-bottom: 20px;">
+        <iframe style="border-radius:12px"
+          src="https://open.spotify.com/intl-es/track/4UwqOWDpdeIDVQDuKT6iza?si=5ef4f00990364294"
+          width="100%" height="152" frameborder="0" allowfullscreen=""
+          allow="clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+          loading="lazy">
+        </iframe>
+      </div>
+
     </div>
 
       <script>
